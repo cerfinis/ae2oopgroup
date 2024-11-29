@@ -1,0 +1,14 @@
+/Users/mahi1/Documents/cswork2/Cswork2/bin/Debug/net8.0/Cswork2
+/Users/mahi1/Documents/cswork2/Cswork2/bin/Debug/net8.0/Cswork2.deps.json
+/Users/mahi1/Documents/cswork2/Cswork2/bin/Debug/net8.0/Cswork2.runtimeconfig.json
+/Users/mahi1/Documents/cswork2/Cswork2/bin/Debug/net8.0/Cswork2.dll
+/Users/mahi1/Documents/cswork2/Cswork2/bin/Debug/net8.0/Cswork2.pdb
+/Users/mahi1/Documents/cswork2/Cswork2/obj/Debug/net8.0/Cswork2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mahi1/Documents/cswork2/Cswork2/obj/Debug/net8.0/Cswork2.AssemblyInfoInputs.cache
+/Users/mahi1/Documents/cswork2/Cswork2/obj/Debug/net8.0/Cswork2.AssemblyInfo.cs
+/Users/mahi1/Documents/cswork2/Cswork2/obj/Debug/net8.0/Cswork2.csproj.CoreCompileInputs.cache
+/Users/mahi1/Documents/cswork2/Cswork2/obj/Debug/net8.0/Cswork2.dll
+/Users/mahi1/Documents/cswork2/Cswork2/obj/Debug/net8.0/refint/Cswork2.dll
+/Users/mahi1/Documents/cswork2/Cswork2/obj/Debug/net8.0/Cswork2.pdb
+/Users/mahi1/Documents/cswork2/Cswork2/obj/Debug/net8.0/Cswork2.genruntimeconfig.cache
+/Users/mahi1/Documents/cswork2/Cswork2/obj/Debug/net8.0/ref/Cswork2.dll
